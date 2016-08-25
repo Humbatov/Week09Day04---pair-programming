@@ -1,0 +1,8 @@
+.main{
+  margin: 20px auto;
+}
+.img{
+  margin: 0 auto;
+  width: 300px;
+  overflow: hidden;
+}

@@ -1,0 +1,21 @@
+.main{
+  margin: 10px auto;
+}
+.img{
+  height: 220px;
+  overflow: hidden;
+}
+h3{
+  margin-bottom: 5px;
+  color: #13317F;
+  font-size: 24px;
+  font-weight: bold;
+}
+a{
+  text-decoration: none;
+
+}
+a:hover{
+  text-decoration: none;
+  color: #13319f;
+}
